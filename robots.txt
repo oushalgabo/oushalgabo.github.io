@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oushalgabo.github.io/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/app/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/assets/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/css/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/data/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/includes/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/item/sitemap.oushalgabo.gz
+Sitemap: https://oushalgabo.github.io/src/sitemap.oushalgabo.gz
